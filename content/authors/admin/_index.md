@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Machine Learning
@@ -68,6 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a Quantitative Researcher in Singapore. I completed my Ph.D studies at Nanyang Technological University supervised by Prof. Mao Kezhi. My Ph.D Dissertation title is Representation Learning for Sentences and Documents. Before that I obtained my undergraduate degree from Southeast University. In SEU, my FYP thesis Stochastic Resonance for Machine Fault Diagnosis is guided by Prof. Yan Ruqiang. I have several years experience in developing machine learning projects (from POC to production) across various domains. My main research interst is machine learning, Natural Language Processing and predicitive modelling. Currently, I am focusing my research on machine learning for prediction in trading. 
+I am a Quantitative Researcher in Singapore. I completed my Ph.D studies at Nanyang Technological University supervised by Prof. Mao Kezhi. My Ph.D Dissertation title is Representation Learning for Sentences and Documents. Before that I obtained my undergraduate degree from Southeast University. In SEU, my FYP thesis Stochastic Resonance for Machine Fault Diagnosis is guided by Prof. Yan Ruqiang. I have several years experience in developing machine learning projects (from POC to production) across various domains. My main research intersts are machine learning, natural language processing and predicitive modelling. Currently, I am exploring the application of machine learning on prediction in trading. 
 
 
