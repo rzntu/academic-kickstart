@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rui91seu@gmail.com"
+email = "[myfirstname]91seu [at] gmail.com"
 phone = ""
 
 # Address
@@ -110,7 +110,7 @@ directions = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   #{icon = "linkedin", icon_pack = "fab", name = "Connect Me", link = "https://www.linkedin.com/in/rui-zhao-1b4288112/"},
-  {icon = "envelope", icon_pack = "fas", name = "rui91seu [at] gmail.com", link = "rui91seu [at] gmail.com"},
+  #{icon = "envelope", icon_pack = "fas", name = "rui91seu [at] gmail.com", link = "rui91seu [at] gmail.com"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
