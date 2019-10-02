@@ -21,21 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Natural Language Processing 
+- Quantitative Trading
+- Smart Manufacturing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D in Machine Learning
+    institution: Nanyang Technology University
+    year: 2017
+  - course: BSc in Electrical engineering
+    institution: Southeast University 
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a Quantitative Researcher in Singapore. I completed my Ph.D studies at Nanyang Technological University. Before that I obtained my undergraduate degree from Southeast University. I have several years experience in developing machine learning projects (from POC to production) across various domains. My main research interst is machine learning, Natural Language Processing and predicitive modelling. Currently, I am focusing my research on machine learning for prediction in trading. 
+I am a Quantitative Researcher in Singapore. I completed my Ph.D studies at Nanyang Technological University supervised by Prof. Mao Kezhi. My Ph.D Dissertation title is Representation Learning for Sentences and Documents. Before that I obtained my undergraduate degree from Southeast University. In SEU, my FYP thesis Stochastic Resonance for Machine Fault Diagnosis is guided by Prof. Yan Ruqiang. I have several years experience in developing machine learning projects (from POC to production) across various domains. My main research interst is machine learning, Natural Language Processing and predicitive modelling. Currently, I am focusing my research on machine learning for prediction in trading. 
 
 
