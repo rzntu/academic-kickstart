@@ -97,7 +97,7 @@ address = {street = "", city = "Singapore", region = "Central", postcode = "", c
 coordinates = {latitude = "1.294071", longitude = "103.853411"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "<pre>- .... .  .--. .-.. .- -.-. .  - .... .- -  ..  ..-. .. .-. ... - .-.. -.--  .... --- .-.. -..  -.-- .. -- .. -.  .... .- -. -.. ...</pre>"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
