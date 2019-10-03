@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "National University of Singapore"
   company_url = ""
   location = "SG"
-  date_start = "2018-01-01"
+  date_start = "2018-06-01"
   date_end = ""
   description = """Design and teach data scinece modules for MSBA students."""
 
@@ -49,6 +49,6 @@ date_format = "Jan 2006"
   location = "SG"
   date_start = "2017-07-01"
   date_end = "2018-07-31"
-  #description = """Developed and implemented large-scale machine learning systems such as recommendation engine."""
+  description = """Developed and implemented large-scale machine learning systems such as recommendation engine."""
 
 +++
