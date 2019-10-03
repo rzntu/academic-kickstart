@@ -58,8 +58,7 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
- 
-[advanced]
+ [advanced]
  # Custom CSS. 
 css_style = ""
  
@@ -70,3 +69,4 @@ css_class = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
