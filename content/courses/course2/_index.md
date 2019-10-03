@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: 2019 Fall BT5153 Topics in Business Analytics
-summary: This module aims to prepare graduate students pursuing a master degree in business analytics for specific topics in business analytics which is of sufficient interest in the current context.
+summary: This NUS module aims to prepare graduate students pursuing a master degree in business analytics for specific topics in business analytics which is of sufficient interest in the current context.
 weight: 1
 
 # Page metadata.

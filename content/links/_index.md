@@ -1,5 +1,5 @@
 ---
-title: Useful Resources by Topics
+title: Useful Resources By Topics
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
