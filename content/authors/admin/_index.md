@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D in Electrical and Electronic Engineering
+  - course: Ph.D in Machine Learning
     institution: Nanyang Technology University
     year: 2017
   - course: BSc in Electrical Engineering
