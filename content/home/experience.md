@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "SG"
   date_start = "2018-07-01"
   date_end = ""
-  description = """Develope and test automated quant trading strategies."""
+  description = """Develop and test automated quant trading strategies."""
 
   #"""
   #Responsibilities include:
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "SG"
   date_start = "2018-06-01"
   date_end = ""
-  description = """Design and teach data scinece modules for MSBA students."""
+  description = """Design and teach data science modules for MSBA students."""
 
 [[experience]]
   title = "Data Scientist"
@@ -49,6 +49,6 @@ date_format = "Jan 2006"
   location = "SG"
   date_start = "2017-07-01"
   date_end = "2018-07-31"
-  description = """Developed and implemented large-scale machine learning systems such as recommendation engine."""
+  description = """Developed and implemented large-scale machine learning systems such as recommendation engine, category categorization and etc."""
 
 +++
