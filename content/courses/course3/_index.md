@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: 2020 Spring BT5153 Applied Machine Learning for Business Analytics
-summary: This NUS module aims to prepare graduate students pursuing a master degree in business analytics for specific topics in business analytics which is of sufficient interest in the current context.
+summary: NUS Course for MSBA Students
 weight: 1
 
 # Page metadata.

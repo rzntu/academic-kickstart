@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Data Science Meets Deep Learning
-summary: This Yidu AI course covers advanced machine learning methods for processing the natural text.
+summary: Yidu AI course for professionals
 weight: 3
 
 # Page metadata.
