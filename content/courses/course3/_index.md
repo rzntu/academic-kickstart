@@ -1,11 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: 2020 Spring BT5153 Applied Machine Learning for Business Analytics
-summary: NUS Course for MSBA Students
+linktitle: Applied Machine Learning for Business Analytics
+summary: Instructor, NUS, 2020 Spring
+         
 weight: 1
 
 # Page metadata.
-title: Applied Machine Learning for Business Analytics 2020
+title: BT5153 Applied Machine Learning for Business Analytics
 date: "2019-12-03T00:00:00Z"
 lastmod: "2019-12-05T00:00:00Z"
 draft: false  # Is this a draft? true/false

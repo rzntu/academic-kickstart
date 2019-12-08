@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: 2019 Spring BT5153 Topics in Business Analytics
-summary: NUS Course for MSBA Students
+linktitle: Topics in Business Analytics
+summary: Instructor, NUS, 2019 Spring
 weight: 2
 
 # Page metadata.
-title: Topics in Business Analytics 2019
+title: BT5153 Topics in Business Analytics
 date: "2019-10-03T00:00:00Z"
 lastmod: "2019-10-03T00:00:00Z"
 draft: false  # Is this a draft? true/false

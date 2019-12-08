@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Data Science Meets Deep Learning
-summary: Yidu AI course for professionals
+summary: Instructor, YiDu AI, 2018
 weight: 3
 
 # Page metadata.
