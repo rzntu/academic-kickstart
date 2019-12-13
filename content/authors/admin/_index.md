@@ -49,6 +49,13 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=u4hCFPIAAAAJ&hl=en
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/chelsea_hotel_57/
+- icon: github-alt
+  icon_pack: fab
+  link: https://github.com/rz0718
+
 
 #- icon: github
 #  icon_pack: fab

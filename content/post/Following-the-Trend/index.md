@@ -75,4 +75,10 @@ projects: []
 
 ### CH5-6: Depth Analysis of Trend-Following Performance
 
-Long side showing a smoother upwards profile and the short side a more dynamic burst-style return. The short side is far less profitable and in fact often ends up losing money for extended periods of time; but it still adds value by acting a  volatility stabiliser as well as providing substantial gain in extreme market situations.
+1. Long side showing a smoother upwards profile and the short side a more dynamic burst-style return. The short side is far less profitable and in fact often ends up losing money for extended periods of time; but it still adds value by acting a  volatility stabiliser as well as providing substantial gain in extreme market situations.
+
+2. Diversified trend following is prone to extreme periods of success followed by sharp decliunes and sideways choppy markets.
+
+3. Generally speaking, commodities tend to do better when dollar is trending down.
+
+4. For trending algos, the short side is a much needed stabiliser over time

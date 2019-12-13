@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Awesome Courses and Talks for Machine Learning
+linktitle: Awesome Courses and Talks for Math and Machine Learning
 summary: Some awesome talks for Machine Learning and Deep Learning that I followed.
 weight: 1
 
@@ -24,6 +24,8 @@ menu:
 
 
 #### Course Links
+* [MIT1806 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+* [EE364a: Convex Optimization](https://web.stanford.edu/class/ee364a/index.html)
 * [CS224d Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 * [Introduction to Gaussian Process](http://inverseprobability.com/talks/notes/gpss-session-1.html)
 * [Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
