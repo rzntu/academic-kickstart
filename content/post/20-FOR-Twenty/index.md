@@ -64,5 +64,4 @@ themselves for the tough periods that even Buffett has experienced. Indeed, beca
 market’s Sharpe ratio, which was around 0.5 during this sample period, rather than making
 suboptimal investments in a futile attempt to consistently reach a much higher number
 
-### CH4: Two Basic Trend-following Strategies
 
