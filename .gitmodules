@@ -13,3 +13,7 @@
 	path = publice
 	url = https://github.com/rzntu/rzntu.github.io.git
 	branch = master
+[submodule "rzntu.github.io"]
+	path = rzntu.github.io
+	url = https://github.com/rzntu/rzntu.github.io.git
+	branch = master
