@@ -17,3 +17,7 @@
 	path = rzntu.github.io
 	url = https://github.com/rzntu/rzntu.github.io.git
 	branch = master
+[submodule "public/rzntu.github.io"]
+	path = public/rzntu.github.io
+	url = https://github.com/rzntu/rzntu.github.io.git
+	branch = master
