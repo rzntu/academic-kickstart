@@ -35,6 +35,8 @@ Even AQR have not so decent performances during recent years, it is still meanin
 
 ## The Great Divide 
 
+The most impressive sentence is **EMH is our North Star even if we often or always veer 15 degrees left or right of it.**
+
 For efficient market hypothesis that the simple statement that security prices fully reflect all available information, there is always a debate. Here, AQR founders provide their own insights toward this debate. 
 
 Firstly, they pointed out that to make any statement about market efficiency, you need to make some assertion of how the market should reflect information. Therefore, here is a joint hypothesis. For example, CAPM model defines that how prices are set. Therefore, we can not tell which of two ideas you are rejecting from the evidences. 
@@ -45,7 +47,26 @@ For the joint of CAPM and EMH, the microchallenges are value and momentum method
 
 2. behaviorists: behavior biases cause prices to get too high or too low. For instance, investors may overextrapolate both good and bad news thus long too much or short too much.
 
-TBU.
+The authors think this mix of risk and behaviorists is there. In their view, it is likely that at most times risk plays a significant role in expected return advantange seems like it is driven more by irrational behaviroal reasons. 
+
+## My Top 10 Peeves
+
+Ten statements against authors top 10 peeves related to investing are listed in the follow:
+
+1. Volatility Is for Misguided Geeks; Risk Is Really the Chance of a "Permanent Loss of Cpital"y
+
+In quant, voaltility is not how much the security is likely to move; it is how much it is likely to move versus the forcast of expected return. The quant apporach is to consider expected return and risk separately.
+
+2. Bubbles, Bubbles, Everywhere, But not All Pop or Sink.
+
+Bubble should indicate a price that no reasonable future outcome can justify. 
+
+3. Had We but World Enough, and Time, using Three-Five Year Evaluation Periods Would still be a Crime.
+
+Some arguments are: **Judgement** in portfolio and startegy selection and a consistent philosophy to be more equal partners with data. **Over three to five years**, pretty much everything has shown some systematic, if certainly not dramatic, tendency to mean revert. Therefore, not only are insufficient data often driving our decisions, but the data we have are often used with the wrong sign.
+
+Some comments: but the US market is strong in almost ten years. 
+
 
 ## Buffett's Alpha
 
